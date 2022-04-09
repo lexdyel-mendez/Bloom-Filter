@@ -1,0 +1,9 @@
+Task 	%
+The program must take 2 csv files as command-line inputs. The first CSV will be used to create the Bloom Filter, the second will be used to validate against the Bloom Filter.  	10
+Create Bloom Filter based on parameters.  Bloom Filter must be an object since in the future the code must be able to generate multiple bloom filters with different parameters.  	10
+On-time delivery 	15
+Followed Instructions 	10
+Code Documentation 	5
+Code must output a "Results.csv" file that will contain all e-mails on the second CSV with a new field "Result" that will contain the result of the Bloom Filter for that e-mail.  The Result must be one of 2 possible values: "Probably in the DB" or "Not in the DB".  	20
+Algorithm Accuracy (This will be determined and calculated by the professor) 	30
+
